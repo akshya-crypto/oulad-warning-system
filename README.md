@@ -6,8 +6,8 @@ using the Open University Learning Analytics Dataset.
 ## Team
 | Member | Roll No | Contribution |
 |---|---|---|
-| Akshara SR | 2024BCS0333 | Feature engineering, leakage controls |
-| Akshaya S | 2024BEC0057 | Model training, evaluation, threshold tuning |
+| Akshaya S | 2024BEC0057 | Feature engineering, leakage controls |
+| Akshara S R | 2024BCS0333 | Model training, evaluation, threshold tuning |
 | Azra Hanan | 2024BCD0069 | Explainability and intervention rules |
 | Benvin Vinu | 2024BCS0233 | Documentation, analyses, plots |
 
